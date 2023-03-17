@@ -50,7 +50,7 @@ To use the code in this repository, follow these steps:
 ```Python
 jupyter notebook
 ``` 
-4. Run the `.ipynb` file
+4. Locate the fild and Run the `.ipynb` file
 
 This will generate a visualization of the strategy along with the buy and sell signals.
 
