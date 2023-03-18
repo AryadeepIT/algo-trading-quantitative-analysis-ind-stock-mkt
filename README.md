@@ -45,7 +45,7 @@ To use the code in this repository, follow these steps:
     
 2.  Open a terminal and navigate to the repository's root folder.
     
-3.  Launch Jupyter Notebook using the following command:
+3.  Launch Jupyter Notebook using the following command :
 
 ```Python
 jupyter notebook
